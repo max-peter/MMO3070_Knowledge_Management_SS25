@@ -1,0 +1,219 @@
+<mxfile host="app.diagrams.net" modified="2025-03-04T16:05:35.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" etag="mvB_l3Z39d_lTHC-uogW" version="24.4.9" type="github">
+  <diagram name="Page-1" id="l5Ud0HEW-qu-UVVnQqe_">
+    <mxGraphModel dx="1734" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="%name%" name="Information Overload" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-107">
+          <mxCell style="shape=hexagon;fillColor=#ffddc1;strokeColor=#d2691e;perimeter=hexagonPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="740" y="70" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes of Overload" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-108">
+          <mxCell style="shape=trapezoid;fillColor=#e6e6fa;strokeColor=#483d8b;perimeter=trapezoidPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="760" y="420" width="170" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Overabundance of Sources" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-109">
+          <mxCell style="shape=ellipse;fillColor=#d0f0c0;strokeColor=#6b8e23;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="780" y="720" width="210" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Poor Information Filtering" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-110">
+          <mxCell style="shape=ellipse;fillColor=#d0f0c0;strokeColor=#6b8e23;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1020" y="620" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Lack of Prioritization" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-111">
+          <mxCell style="shape=ellipse;fillColor=#d0f0c0;strokeColor=#6b8e23;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="510" y="610" width="170" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Ineffective Organization" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-112">
+          <mxCell style="shape=ellipse;fillColor=#d0f0c0;strokeColor=#6b8e23;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1040" y="430" width="190" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Cognitive Overload" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-113">
+          <mxCell style="shape=ellipse;fillColor=#d0f0c0;strokeColor=#6b8e23;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="480" y="450" width="170" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Filter Proactively" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-114">
+          <mxCell style="shape=parallelogram;fillColor=#b0e0e6;strokeColor=#4682b4;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="540" y="1010" width="150" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Filter Proactively" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-115">
+          <mxCell style="shape=parallelogram;fillColor=#b0e0e6;strokeColor=#4682b4;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1255" y="740" width="150" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Automate Processing" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-116">
+          <mxCell style="shape=parallelogram;fillColor=#b0e0e6;strokeColor=#4682b4;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="850" y="1030" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Organize with Graph-Based KM" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-117">
+          <mxCell style="shape=parallelogram;fillColor=#b0e0e6;strokeColor=#4682b4;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1250" y="440" width="230" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Capture with Zettelkasten" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-118">
+          <mxCell style="shape=parallelogram;fillColor=#87ceeb;strokeColor=#1e90ff;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1070" y="210" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Manage Time with Blocking" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-119">
+          <mxCell style="shape=parallelogram;fillColor=#87ceeb;strokeColor=#1e90ff;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="490" y="740" width="210" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Manage Time with Blocking" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-120">
+          <mxCell style="shape=parallelogram;fillColor=#87ceeb;strokeColor=#1e90ff;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="330" y="260" width="210" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Summarize with AI" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-121">
+          <mxCell style="shape=parallelogram;fillColor=#87ceeb;strokeColor=#1e90ff;perimeter=parallelogramPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="210" y="440" width="160" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Graph-Based Tools e.g. LogSeq Obsidian Roam" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-122">
+          <mxCell style="shape=rectangle;fillColor=#ffd700;strokeColor=#daa520;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1340" y="300" width="320" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="AI Summarization Tools e.g. ChatGPT Notion AI" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-123">
+          <mxCell style="shape=rectangle;fillColor=#ffd700;strokeColor=#daa520;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="20" y="590" width="320" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Automation Platforms e.g. Zapier IFTTT" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-124">
+          <mxCell style="shape=rectangle;fillColor=#ffd700;strokeColor=#daa520;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1010" y="1190" width="270" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Tagging &amp; Linking Systems" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-125">
+          <mxCell style="shape=rectangle;fillColor=#ffd700;strokeColor=#daa520;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1140" y="50" width="210" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Intake Limits e.g. Fewer Subscriptions" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-126">
+          <mxCell style="shape=rectangle;fillColor=#f0e68c;strokeColor=#cd853f;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="450" y="1200" width="270" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Intake Limits e.g. Fewer Subscriptions" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-127">
+          <mxCell style="shape=rectangle;fillColor=#f0e68c;strokeColor=#cd853f;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1490" y="830" width="270" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Digital Detox Periods" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-128">
+          <mxCell style="shape=rectangle;fillColor=#f0e68c;strokeColor=#cd853f;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="270" y="850" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Digital Detox Periods" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-129">
+          <mxCell style="shape=rectangle;fillColor=#f0e68c;strokeColor=#cd853f;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="320" y="90" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Daily Knowledge Reviews" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-130">
+          <mxCell style="shape=rectangle;fillColor=#f0e68c;strokeColor=#cd853f;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1430" y="580" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Structured Templates" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-131">
+          <mxCell style="shape=rectangle;fillColor=#f0e68c;strokeColor=#cd853f;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="350" y="1040" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Structured Templates" placeholders="1" id="ZWFtnrsH6YKUXwf0AKD2-132">
+          <mxCell style="shape=rectangle;fillColor=#f0e68c;strokeColor=#cd853f;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="1240" y="970" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-133" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-107" target="ZWFtnrsH6YKUXwf0AKD2-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-134" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-108" target="ZWFtnrsH6YKUXwf0AKD2-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-135" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-108" target="ZWFtnrsH6YKUXwf0AKD2-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-136" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-108" target="ZWFtnrsH6YKUXwf0AKD2-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-137" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-108" target="ZWFtnrsH6YKUXwf0AKD2-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-138" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-108" target="ZWFtnrsH6YKUXwf0AKD2-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-139" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-109" target="ZWFtnrsH6YKUXwf0AKD2-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-140" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-110" target="ZWFtnrsH6YKUXwf0AKD2-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-141" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-109" target="ZWFtnrsH6YKUXwf0AKD2-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-142" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-112" target="ZWFtnrsH6YKUXwf0AKD2-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-143" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-112" target="ZWFtnrsH6YKUXwf0AKD2-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-144" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-111" target="ZWFtnrsH6YKUXwf0AKD2-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-145" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-113" target="ZWFtnrsH6YKUXwf0AKD2-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-146" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-113" target="ZWFtnrsH6YKUXwf0AKD2-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-147" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-117" target="ZWFtnrsH6YKUXwf0AKD2-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-148" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-121" target="ZWFtnrsH6YKUXwf0AKD2-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-149" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-116" target="ZWFtnrsH6YKUXwf0AKD2-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-150" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-118" target="ZWFtnrsH6YKUXwf0AKD2-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-151" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-114" target="ZWFtnrsH6YKUXwf0AKD2-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-152" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-115" target="ZWFtnrsH6YKUXwf0AKD2-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-153" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-119" target="ZWFtnrsH6YKUXwf0AKD2-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-154" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-120" target="ZWFtnrsH6YKUXwf0AKD2-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-155" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-117" target="ZWFtnrsH6YKUXwf0AKD2-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-156" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-114" target="ZWFtnrsH6YKUXwf0AKD2-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWFtnrsH6YKUXwf0AKD2-157" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="ZWFtnrsH6YKUXwf0AKD2-115" target="ZWFtnrsH6YKUXwf0AKD2-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
