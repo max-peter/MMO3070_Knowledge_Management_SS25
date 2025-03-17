@@ -1,0 +1,255 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
+  <diagram name="Page-1" id="rw_4wVUWJhF9KtVmBtuJ">
+    <mxGraphModel dx="3940" dy="2610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="%name%" name="Lehman Brothers Knowledge Risks (2008 Collapse)" placeholders="1" id="vWDKOZK6BITERUY0dnJb-1">
+          <mxCell style="shape=rectangle;fillColor=#f5f5f5;strokeColor=#000000;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="510" y="1200" width="300" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Human Knowledge Risks" placeholders="1" id="vWDKOZK6BITERUY0dnJb-2">
+          <mxCell style="shape=rectangle;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="660" y="650" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Knowledge Hiding" placeholders="1" id="vWDKOZK6BITERUY0dnJb-3">
+          <mxCell style="shape=ellipse;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="890" y="260" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: Competitive Culture leading to Knowledge Attrition Hiding" placeholders="1" id="vWDKOZK6BITERUY0dnJb-4">
+          <mxCell style="shape=rectangle;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="590" y="-50" width="440" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Encourage Knowledge Sharing" placeholders="1" id="vWDKOZK6BITERUY0dnJb-5">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1080" y="90" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Knowledge Loss (Human)" placeholders="1" id="vWDKOZK6BITERUY0dnJb-6">
+          <mxCell style="shape=ellipse;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="400" y="410" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: High Turnover leading to Knowledge Attrition Loss (Human)" placeholders="1" id="vWDKOZK6BITERUY0dnJb-7">
+          <mxCell style="shape=rectangle;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="470" y="360" width="460" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Codify Knowledge in IT Databases" placeholders="1" id="vWDKOZK6BITERUY0dnJb-8">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="240" width="270" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Operational Knowledge Risks" placeholders="1" id="vWDKOZK6BITERUY0dnJb-9">
+          <mxCell style="shape=rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="940" y="1130" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Obsolete/Unreliable Knowledge" placeholders="1" id="vWDKOZK6BITERUY0dnJb-10">
+          <mxCell style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1200" y="900" width="190" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: Overconfidence leading to Knowledge Loss Obsolete" placeholders="1" id="vWDKOZK6BITERUY0dnJb-11">
+          <mxCell style="shape=rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1380" y="870" width="420" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Eliminate Obsolete Knowledge" placeholders="1" id="vWDKOZK6BITERUY0dnJb-12">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1250" y="620" width="240" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Improper Knowledge Application" placeholders="1" id="vWDKOZK6BITERUY0dnJb-13">
+          <mxCell style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="560" y="930" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: Profit Motive leading to Knowledge Leakage Application" placeholders="1" id="vWDKOZK6BITERUY0dnJb-14">
+          <mxCell style="shape=rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="660" y="860" width="440" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Limit Knowledge Access" placeholders="1" id="vWDKOZK6BITERUY0dnJb-15">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="220" y="790" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Relational Risks" placeholders="1" id="vWDKOZK6BITERUY0dnJb-16">
+          <mxCell style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="880" y="1420" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: Opportunistic Behavior leading to Knowledge Spillover Relational" placeholders="1" id="vWDKOZK6BITERUY0dnJb-17">
+          <mxCell style="shape=rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="920" y="1470" width="480" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Select Partners Cautiously" placeholders="1" id="vWDKOZK6BITERUY0dnJb-18">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="560" y="1490" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Knowledge Loss (Operational)" placeholders="1" id="vWDKOZK6BITERUY0dnJb-19">
+          <mxCell style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1320" y="1370" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: High Turnover leading to Knowledge Attrition Operational" placeholders="1" id="vWDKOZK6BITERUY0dnJb-20">
+          <mxCell style="shape=rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1490" y="1410" width="440" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Conduct Regular Data Backups" placeholders="1" id="vWDKOZK6BITERUY0dnJb-21">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1340" y="1680" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Technological Knowledge Risks" placeholders="1" id="vWDKOZK6BITERUY0dnJb-22">
+          <mxCell style="shape=rectangle;fillColor=#ffcccb;strokeColor=#cb4154;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="560" y="1730" width="190" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Reliance on Outdated Technology" placeholders="1" id="vWDKOZK6BITERUY0dnJb-23">
+          <mxCell style="shape=ellipse;fillColor=#ffcccb;strokeColor=#cb4154;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="310" y="1970" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: Outdated IT Systems leading to Unreliable Financial Models" placeholders="1" id="vWDKOZK6BITERUY0dnJb-24">
+          <mxCell style="shape=rectangle;fillColor=#ffcccb;strokeColor=#cb4154;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="150" y="2260" width="460" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Upgrade and Validate IT Systems" placeholders="1" id="vWDKOZK6BITERUY0dnJb-25">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry y="1970" width="260" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Knowledge Loss Due to Technical Failure" placeholders="1" id="vWDKOZK6BITERUY0dnJb-26">
+          <mxCell style="shape=ellipse;fillColor=#ffcccb;strokeColor=#cb4154;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="790" y="2000" width="240" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Causes and Impacts: Lack of IT Backups leading to Operational Data Loss" placeholders="1" id="vWDKOZK6BITERUY0dnJb-27">
+          <mxCell style="shape=rectangle;fillColor=#ffcccb;strokeColor=#cb4154;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="670" y="2300" width="420" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Mitigation: Implement Robust IT Backup Systems" placeholders="1" id="vWDKOZK6BITERUY0dnJb-28">
+          <mxCell style="shape=rhombus;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="1040" y="2100" width="290" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Overarching Mitigation" placeholders="1" id="vWDKOZK6BITERUY0dnJb-29">
+          <mxCell style="shape=rectangle;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="230" y="1300" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Protect Knowledge Legally" placeholders="1" id="vWDKOZK6BITERUY0dnJb-30">
+          <mxCell style="shape=rectangle;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="-30" y="1150" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Implement KM with Risk Focus" placeholders="1" id="vWDKOZK6BITERUY0dnJb-31">
+          <mxCell style="shape=rectangle;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1500" width="190" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-32" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-2" target="vWDKOZK6BITERUY0dnJb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-33" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-3" target="vWDKOZK6BITERUY0dnJb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-34" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-4" target="vWDKOZK6BITERUY0dnJb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-35" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-5" target="vWDKOZK6BITERUY0dnJb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-36" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-6" target="vWDKOZK6BITERUY0dnJb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-37" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-7" target="vWDKOZK6BITERUY0dnJb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-38" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-8" target="vWDKOZK6BITERUY0dnJb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-39" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-9" target="vWDKOZK6BITERUY0dnJb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-40" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-10" target="vWDKOZK6BITERUY0dnJb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-41" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-11" target="vWDKOZK6BITERUY0dnJb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-42" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-12" target="vWDKOZK6BITERUY0dnJb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-43" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-13" target="vWDKOZK6BITERUY0dnJb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-44" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-14" target="vWDKOZK6BITERUY0dnJb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-45" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-15" target="vWDKOZK6BITERUY0dnJb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-46" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-16" target="vWDKOZK6BITERUY0dnJb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-47" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-17" target="vWDKOZK6BITERUY0dnJb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-48" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-18" target="vWDKOZK6BITERUY0dnJb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-49" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-19" target="vWDKOZK6BITERUY0dnJb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-50" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-20" target="vWDKOZK6BITERUY0dnJb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-51" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-21" target="vWDKOZK6BITERUY0dnJb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-52" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-22" target="vWDKOZK6BITERUY0dnJb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-53" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-23" target="vWDKOZK6BITERUY0dnJb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-54" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-24" target="vWDKOZK6BITERUY0dnJb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-55" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-25" target="vWDKOZK6BITERUY0dnJb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-56" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-26" target="vWDKOZK6BITERUY0dnJb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-57" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-27" target="vWDKOZK6BITERUY0dnJb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-58" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-28" target="vWDKOZK6BITERUY0dnJb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-59" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-29" target="vWDKOZK6BITERUY0dnJb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-60" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-30" target="vWDKOZK6BITERUY0dnJb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWDKOZK6BITERUY0dnJb-61" value="" style="curved=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="vWDKOZK6BITERUY0dnJb-31" target="vWDKOZK6BITERUY0dnJb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
